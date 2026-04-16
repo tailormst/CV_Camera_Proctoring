@@ -10,5 +10,5 @@ pip install -r requirements.txt
 ### Execution
 
 ```
-python human_pose_estimation_video.py
+python human_posture_analysis_video.py
 ```
